@@ -1,0 +1,10 @@
+# Ignorar todos os arquivos com extensão .opt
+*.opt
+
+# Ignorar todos os arquivos .bootinfo e .bootinfo_guids
+*.bootinfo
+*.bootinfo_guids
+
+# Ignorar todos os arquivos .compileinfo
+*.compileinfo
+
